@@ -1,5 +1,6 @@
 <?php
 
-	echo file_get_contents('./files.txt');
+	$f = file_get_contents('./files.txt');
+	echo f;
 
 ?>
