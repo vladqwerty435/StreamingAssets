@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1004377708
+CRC: 3795936583
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -237,8 +237,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_62:
       Name: pagetext.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_63:
       Name: rankicon-i18000002.assetbundle
       Dependencies: {}
@@ -306,8 +305,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_77:
       Name: selfhidenotice.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_78:
       Name: addfriend.assetbundle
       Dependencies:

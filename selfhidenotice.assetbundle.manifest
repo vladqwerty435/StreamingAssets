@@ -1,24 +1,30 @@
 ManifestFileVersion: 0
-CRC: 889966862
+CRC: 2001209233
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a71b5fdbc87e315189492ffba2f92ade
+    Hash: b4058e39810a005c39ab0c835a0c0c00
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3526e18351c06bd273b4e9ad2bc8e349
+    Hash: 0f71842c70e7c4a5599cfed9d0c0b1fa
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: a6687743f666fcd42937aef311a507c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -39,5 +45,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/Waiting/SelfHideNotice/SelfHideNoticePanel.prefab
 - Assets/Logic/Waiting/SelfHideNotice/UNotice-SelfHideNoticeFrame.png
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []
