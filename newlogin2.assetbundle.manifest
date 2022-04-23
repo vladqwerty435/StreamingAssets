@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1240483829
+CRC: 4018086497
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 64d34a3658c8712b0eb586c6c4b66f5d
+    Hash: bb87e06a79b87e97665a0e2c9911c105
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c07608330d00f288b2b091d432a9e2f7
+    Hash: c6511ba6393591df681024b6660d2ef1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -68,4 +68,3 @@ Assets:
 - Assets/Logic/M002/NewLogin/NewLogin2Panel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg-login.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
