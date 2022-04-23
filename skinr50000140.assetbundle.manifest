@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3637546046
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bed477ed0ddd2aa935c315c8939fa10
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 13b5e8f69fda0227f91ebed0a828dc19
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Logic/Role/R50000140/R50000140-Show.prefab
+Dependencies:
+- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/shader.assetbundle

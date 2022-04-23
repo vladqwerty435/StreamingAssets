@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 2464139121
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c252a46b993e90aee9cb012dca7996a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 692c76731e388fb7d5b678a63de9c507
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+Assets:
+- Assets/Logic/M032/ChartOnMain/ChartOnMainPanel.prefab
+Dependencies:
+- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/ranknum.assetbundle
+- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle

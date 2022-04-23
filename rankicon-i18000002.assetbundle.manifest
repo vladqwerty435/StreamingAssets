@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2234051757
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 347f893120003e7f32727dd8b4401b84
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Logic/Icon/RankIcon/I18000002/I18001013.png
+- Assets/Logic/Icon/RankIcon/I18000002/I18001012.png
+- Assets/Logic/Icon/RankIcon/I18000002/I18001011.png
+- Assets/Logic/Icon/RankIcon/I18000002/I18000002-little.png
+- Assets/Logic/Icon/RankIcon/I18000002/I18000002.png
+Dependencies: []

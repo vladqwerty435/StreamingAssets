@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3468106527
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 123673353b63667114484ed0fb09e5c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Logic/Icon/GuildLevelIcon/I30001006.png
+- Assets/Logic/Icon/GuildLevelIcon/I30001003.png
+- Assets/Logic/Icon/GuildLevelIcon/I30001005.png
+- Assets/Logic/Icon/GuildLevelIcon/I30001004.png
+- Assets/Logic/Icon/GuildLevelIcon/I30001001.png
+- Assets/Logic/Icon/GuildLevelIcon/I30001002.png
+Dependencies: []

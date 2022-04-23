@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 4018956269
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 31cf8faaff12c3d87c66855d4bc9fddc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 864f1e9c6be5bd1ec526ad6e58e93fc5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-2.png
+- Assets/Logic/M021/PVPBattleLoading/Texture/M021-ZX-Texture-BG.png
+- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-1.png
+- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-5.png
+- Assets/Logic/M021/PVPBattleLoading/PVPBattleLoadingPanel.prefab
+- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-4.png
+- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-3.png
+Dependencies:
+- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
