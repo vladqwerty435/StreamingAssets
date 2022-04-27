@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1557095335
+CRC: 1584962906
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -373,7 +373,6 @@ AssetBundleManifest:
       Name: startgame.assetbundle
       Dependencies:
         Dependency_0: bg.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_93:
       Name: rolepainting-10000401.assetbundle
       Dependencies: {}

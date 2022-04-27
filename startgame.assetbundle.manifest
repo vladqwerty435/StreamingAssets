@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 2160382849
+CRC: 960671318
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0c414b0334cb24fee907657970ecf09d
+    Hash: c14224673b1bbefb6c95a17305168294
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 403c55ee359de44066276e45fce62e3c
+    Hash: 53285e4f67c7412b3673b93d14a758bf
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -81,4 +85,3 @@ Assets:
 - Assets/Logic/M003/StartGame/Texture/M003-ServerState1.png
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
