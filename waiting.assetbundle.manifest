@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 2070447129
+CRC: 1654144231
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d701bbaa271eb7beedb9a3399af028f
+    Hash: 08e8de9bf3fa62ee13f763f908437e7b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a62e758aa188af68ea6c15ab4d8527a3
+    Hash: 1ae9eda1b28f82e5ba1f4219191bde1a
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
@@ -24,7 +28,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: 465f99db5eee7da438886650a4d185e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -51,5 +57,4 @@ Assets:
 - Assets/Logic/Waiting/Waiting/Texture/002.png
 - Assets/Logic/Waiting/Waiting/Texture/004.png
 - Assets/Logic/Waiting/Waiting/WaitingPanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []

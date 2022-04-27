@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 19077221
+CRC: 1557095335
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -87,8 +87,7 @@ AssetBundleManifest:
         Dependency_0: shader.assetbundle
     Info_23:
       Name: waiting.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_24:
       Name: itemicon.assetbundle
       Dependencies: {}
