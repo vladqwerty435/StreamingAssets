@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4018086497
+CRC: 307526277
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bb87e06a79b87e97665a0e2c9911c105
+    Hash: bcf207f997e6954345da5bee7480b0b6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c6511ba6393591df681024b6660d2ef1
+    Hash: a3922ca5c5fe38e8b786e2ba7a4903d6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,15 +24,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 3ec027e017385004fac1deb777488bbc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 179afacf6d78d054e95a4c37982e2b51, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8450ca1b2ab2832428402cc2e1b5f001, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: dce25a153271d784290010f1d29d74ad, type: 3}
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -44,6 +38,10 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: LoginPanelCtrl
+- AssemblyName: Assembly-CSharp
+  ClassName: RegistPanelCtrl
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.UI
