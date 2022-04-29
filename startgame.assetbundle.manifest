@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2067644684
+CRC: 946225297
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6c404803033c10231ae46ae96b319976
+    Hash: 55351e853b91bcc511d2dfd5c70c9455
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7da2c73ee436031a063699a986ad1f01
+    Hash: 5ca8b8490814644fff0f680fd712a635
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -22,6 +22,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -30,15 +32,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 32214598e5285b14483bfc390688143d, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: aa5c604326d4c3041853879832f7ffdc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7d1cead068e1e72478c93cc8a5b0ac3f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
@@ -54,12 +54,10 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
-- AssemblyName: UnityEngine.CoreModule
-  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: Assembly-CSharp
+  ClassName: SimpleUIItems
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
-- AssemblyName: UnityEngine.CoreModule
-  ClassName: UnityEngine.Events.PersistentListenerMode
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.RectOffset
 - AssemblyName: UnityEngine.UI
@@ -78,6 +76,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
 Assets:
 - Assets/Logic/M003/StartGame/Texture/M003-ServerState2.png
 - Assets/Logic/M003/StartGame/Texture/M003-ServerState3.png
