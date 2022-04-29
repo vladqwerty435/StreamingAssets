@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4206664396
+CRC: 1691791790
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -132,7 +132,6 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: bg.assetbundle
         Dependency_1: roleicon.assetbundle
-        Dependency_2: fonts.assetbundle
     Info_36:
       Name: battleinfo.assetbundle
       Dependencies:
@@ -257,10 +256,8 @@ AssetBundleManifest:
         Dependency_0: roleicon.assetbundle
         Dependency_1: icon.assetbundle
         Dependency_2: resourceicon.assetbundle
-        Dependency_3: fonts.assetbundle
-        Dependency_4: pagetext.assetbundle
-        Dependency_5: rankicon-i18000005.assetbundle
-        Dependency_6: frameicon.assetbundle
+        Dependency_3: rankicon-i18000005.assetbundle
+        Dependency_4: frameicon.assetbundle
     Info_67:
       Name: skintag.assetbundle
       Dependencies: {}

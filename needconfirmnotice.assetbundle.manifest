@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3989762019
+CRC: 2554389742
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d81a6c00ee1a3a58f41b15cd9ed3a4ef
+    Hash: 5e67c5e984086adabfd00ab57011d90b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c5fb3deabc5ced3630df950ed353aed2
+    Hash: 562820a5c344a1b9b4499d5572ad2517
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,20 +19,12 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 74
-  Script: {instanceID: 0}
-- Class: 91
-  Script: {instanceID: 0}
-- Class: 95
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
@@ -44,11 +36,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 95de5d4b89347a946b7ab1efc5e723da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51391e48ce11533419e1f9c9ebd46103, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0ab8134bb82c874caefb01a89ee3196, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cec12cb8bf6fa7a4c9e3b3f75956321b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -64,6 +62,18 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: NoticeController/Button1
+- AssemblyName: Assembly-CSharp
+  ClassName: NoticeController/Button2
+- AssemblyName: Assembly-CSharp
+  ClassName: NoticeController/Button3
+- AssemblyName: Assembly-CSharp
+  ClassName: NoticeController/Button4
+- AssemblyName: Assembly-CSharp
+  ClassName: NoticeController/Panel
+- AssemblyName: Assembly-CSharp
+  ClassName: NoticeController/TipData
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.CoreModule
@@ -85,10 +95,8 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/Waiting/NeedConfirmNotice/NeedConfirmNoticeDialog.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/frameicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/icon.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/rankicon-i18000005.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/resourceicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle
