@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 716827522
+CRC: 3619379257
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -305,9 +305,8 @@ AssetBundleManifest:
       Name: addfriend.assetbundle
       Dependencies:
         Dependency_0: battleresult28.assetbundle
-        Dependency_1: fonts.assetbundle
-        Dependency_2: pagetext.assetbundle
-        Dependency_3: battleresult29.assetbundle
+        Dependency_1: pagetext.assetbundle
+        Dependency_2: battleresult29.assetbundle
     Info_79:
       Name: skillicon-10000101.assetbundle
       Dependencies: {}
