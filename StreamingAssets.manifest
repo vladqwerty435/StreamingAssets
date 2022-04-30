@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 745159186
+CRC: 716827522
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -773,8 +773,7 @@ AssetBundleManifest:
     Info_167:
       Name: chathorn.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_168:
       Name: skinr50000080.assetbundle
       Dependencies:

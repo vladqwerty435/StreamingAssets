@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 1734510041
+CRC: 2429336938
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cf03c8f7e7ee1216b377019d6d376540
+    Hash: 9f73ac420d550f6ad67d7f5a6c1092d7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f5eba998c31ec51bb597ac8b89aa28ed
+    Hash: 9818ca31cc7ad4c59d6b01abfdf61ace
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -22,7 +26,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbceddfe31f7c884ba0ac58675ea7a04, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -57,5 +63,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M037/ChatHorn/ChatHornPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
