@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2464139121
+CRC: 3637548590
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5c252a46b993e90aee9cb012dca7996a
+    Hash: ee08344877dc130f3a49efb00e14c7ab
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 692c76731e388fb7d5b678a63de9c507
+    Hash: 79e65f98dd1571815643a2177c68a066
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,9 +28,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: 32214598e5285b14483bfc390688143d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d1cead068e1e72478c93cc8a5b0ac3f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 719b5903ee055df4db9085fc38686b2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c7d17ded6017ce40b1d234d43dadb3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5230f545fdafc4847ba7aa98ac22bf31, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -51,5 +59,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M032/ChartOnMain/ChartOnMainPanel.prefab
 Dependencies:
+- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/frameicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/ranknum.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle

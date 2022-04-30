@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 264638166
+CRC: 745159186
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -497,6 +497,7 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: ranknum.assetbundle
         Dependency_1: roleicon.assetbundle
+        Dependency_2: frameicon.assetbundle
     Info_118:
       Name: newlogin2.assetbundle
       Dependencies:
