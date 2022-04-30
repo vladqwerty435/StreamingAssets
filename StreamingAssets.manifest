@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 702220341
+CRC: 264638166
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -143,7 +143,6 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: ranknum.assetbundle
         Dependency_1: vipicon.assetbundle
-        Dependency_2: fonts.assetbundle
     Info_38:
       Name: icon.assetbundle
       Dependencies: {}
