@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 2545065050
+CRC: 1352645396
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 00666340311b73d502a4f2567f6c68e2
+    Hash: 755dea168173529ea595a7cad6294dcc
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 136bccc20491dd23e83555436007b811
+    Hash: 29d8a51f88c23ddaeba6f65a2bb4bb2b
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -22,7 +26,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: b0f6423d382fcfc44acf82610f64861c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 115
@@ -56,5 +62,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/M032/PlayerInfoOnChart/PlayerInfoOnChartPanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []

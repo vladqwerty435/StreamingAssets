@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2632683877
+CRC: 4214051313
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -267,8 +267,7 @@ AssetBundleManifest:
         Dependency_1: fonts.assetbundle
     Info_69:
       Name: playerinfoonchart.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_70:
       Name: giftcenter.assetbundle
       Dependencies:
