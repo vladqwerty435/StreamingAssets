@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1746611483
+CRC: 2220875203
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 293e87f3009b0f4eaee0171b59a2c967
+    Hash: 810c5780811135c759f9940dc7453ddb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a339c0415dd315c45ce5f90d91ce8519
+    Hash: 53c2fa4647829185b72df14eeb6eef4c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,11 +34,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 736646482c204414e9e0e97cd02e25ae, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -76,6 +78,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/M005/CumulativeLogin/CumulativeLoginPanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+Dependencies: []

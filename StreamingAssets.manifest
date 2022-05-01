@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 4214051313
+CRC: 44088814
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -226,9 +226,7 @@ AssetBundleManifest:
         Dependency_3: pagetext.assetbundle
     Info_60:
       Name: cumulativelogin.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+      Dependencies: {}
     Info_61:
       Name: skillicon-10000103.assetbundle
       Dependencies: {}
