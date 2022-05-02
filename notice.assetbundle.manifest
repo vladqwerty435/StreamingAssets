@@ -1,26 +1,30 @@
 ManifestFileVersion: 0
-CRC: 1187394310
+CRC: 1503771582
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ee23b43fd7bcc25a8dd07268eb6a76c4
+    Hash: c1769900e557a7fef708a5865401e94e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3a7fe7ef1cb5fa576aa2cd382ee74ea2
+    Hash: 59ad31c10bf1d811801b57378bc128fd
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
 - Class: 114
@@ -30,13 +34,31 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: c69dc0f7ad0e3914e85b66e40aeb3911, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: ba59a067f35dee34a932b34d85a3b319, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5230f545fdafc4847ba7aa98ac22bf31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 650929ca5bf858045a347b3bc734248e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 87f7c323545eaed4a9449ecafe33c7b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41857fc19b178bc41ba09d023fdd6e74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d1cead068e1e72478c93cc8a5b0ac3f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be389f66c02463d4f8b522f2a62d54f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -71,7 +93,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M008/Notice/NoticePanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/icon.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/portrait.assetbundle

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1465932748
+CRC: 184929594
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -648,8 +648,6 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: portrait.assetbundle
         Dependency_1: icon.assetbundle
-        Dependency_2: fonts.assetbundle
-        Dependency_3: pagetext.assetbundle
     Info_144:
       Name: startbountymatch.assetbundle
       Dependencies:
