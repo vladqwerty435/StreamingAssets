@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 3024233359
+CRC: 389208191
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 92786ebabe54ce67eaca72d8be0372b8
+    Hash: 69c88f731c3b07297f81e26d355a0ed6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e0184bc59bb8af88a95fc8ff9ade11b4
+    Hash: d0f5c17a28efab16dcb81ed16302e31e
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -20,17 +24,19 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b8d5a5b53a3f14bb06b3a6f6143767, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c824f0ec1072d15468604291063cf5b8, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -61,6 +67,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/Common/BuySkin/BuySkinPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/portrait.assetbundle
