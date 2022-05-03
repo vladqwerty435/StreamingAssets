@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2406882233
+CRC: 1707767758
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a99d0f3a770cf3b376ef7d9d46cf05bb
+    Hash: 955a5d99df9f9111d3ce13cd4db0232b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5835cebea9959fd85e9ba157bc53db2e
+    Hash: 00d3504752023265480f94c01a43988e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,17 +24,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 09a04e13d989c5241bd9d279b49049dd, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
@@ -70,7 +64,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/Common/AddFriend/AddFriendPanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/battleresult28.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/battleresult29.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+Dependencies: []
