@@ -1,12 +1,11 @@
 ManifestFileVersion: 0
-CRC: 525549959
+CRC: 1108089633
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: battlerecommendequip.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_1:
       Name: guildsprite.assetbundle
       Dependencies: {}
@@ -20,8 +19,7 @@ AssetBundleManifest:
       Name: battleherodetail.assetbundle
       Dependencies:
         Dependency_0: skilltag.assetbundle
-        Dependency_1: fonts.assetbundle
-        Dependency_2: pagetext.assetbundle
+        Dependency_1: pagetext.assetbundle
     Info_5:
       Name: skinr50000120.assetbundle
       Dependencies:
@@ -99,8 +97,7 @@ AssetBundleManifest:
     Info_26:
       Name: getrune.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_27:
       Name: rankicon-i18000007.assetbundle
       Dependencies: {}
@@ -401,8 +398,7 @@ AssetBundleManifest:
     Info_100:
       Name: battleoption.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_101:
       Name: skinwindow19.assetbundle
       Dependencies:
@@ -452,7 +448,6 @@ AssetBundleManifest:
       Name: battleachieve.assetbundle
       Dependencies:
         Dependency_0: iconnum.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_111:
       Name: giftskin.assetbundle
       Dependencies: {}
@@ -478,8 +473,7 @@ AssetBundleManifest:
         Dependency_1: achieveicon.assetbundle
         Dependency_2: portrait.assetbundle
         Dependency_3: icon.assetbundle
-        Dependency_4: fonts.assetbundle
-        Dependency_5: pagetext.assetbundle
+        Dependency_4: pagetext.assetbundle
     Info_116:
       Name: rolepainting-10000202.assetbundle
       Dependencies: {}
@@ -530,9 +524,7 @@ AssetBundleManifest:
         Dependency_4: fonts.assetbundle
     Info_126:
       Name: giftdetails.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+      Dependencies: {}
     Info_127:
       Name: rolepainting-10000002.assetbundle
       Dependencies: {}

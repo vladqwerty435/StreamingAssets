@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 2662359442
+CRC: 1447332091
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ed0dada891a157589e8a60a9ca5d787
+    Hash: f1b9c666c3535f086be86758786eaa2b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c0d86a5aea3fa882ab86793a37127403
+    Hash: 647e5ba1908057dcbfbd17ae2b47d165
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -73,5 +77,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M023/BattleOption/BattleOptionPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3712228134
+CRC: 3759367613
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 207204868032c7bee0c18ea3046956b8
+    Hash: 4bd1576931601e19952c0382f7d86f70
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0050c70f02dbdc070135e2c62fcdca31
@@ -77,5 +77,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M109/BattleAchieve/BattleAchievePanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/iconnum.assetbundle

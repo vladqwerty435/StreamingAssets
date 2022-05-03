@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1311032852
+CRC: 1906304847
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 954743d0570aeb5db7f19c4c913823b2
+    Hash: 68a30e7e12aae5e4325e5965b921c4d3
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4c2038cb25fe529c8c687a8263708315
@@ -83,7 +83,6 @@ Assets:
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/achieveicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/icon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/portrait.assetbundle

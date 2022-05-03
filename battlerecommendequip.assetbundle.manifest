@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 912552743
+CRC: 3843290343
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 67d0416ae29268f03683f38a1aae53ec
+    Hash: 9282d3a9fb183e5e78666d94301e6547
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7f5c0575afc3e50ef3672c6924049bef
+    Hash: a9e1bfe5ea49acd95cf2ba846715a29a
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -77,5 +81,4 @@ Assets:
 - Assets/Logic/M074/BattleRecommendEquip/Num/7.png
 - Assets/Logic/M074/BattleRecommendEquip/Num/8.png
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

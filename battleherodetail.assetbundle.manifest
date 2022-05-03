@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 922374695
+CRC: 3244457092
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 91bab02a5d8b669898ad3c8814b8eff2
+    Hash: ccc2104f00a95668cf0d0743b31de332
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 312c0865994c3b40bdc70d9afb48df1d
+    Hash: edf932bf8cdf84674adadcd78cea9611
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -61,6 +65,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M025/BattleHeroDetail/BattleHeroDetailPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/skilltag.assetbundle

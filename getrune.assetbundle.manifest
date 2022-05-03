@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4143878569
+CRC: 1173310418
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f8ecd8429e45a773acb8cd618bcb84d4
+    Hash: 9626fd1ac45800bfbd687c4744f547a6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5c7256b65d71f7a6ec73074ff5e743ad
@@ -79,5 +79,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M050/GetRune/GetRunePanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
