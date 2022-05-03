@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 1107025113
+CRC: 733595929
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 036e6744fdf2ccd5f74ec082f6aab104
+    Hash: 4561a8812e0409f698b1ae5597cec92c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 07ffc70d5a959fc735bf1921c302df6b
+    Hash: 90e7de505fd122fc63599377864443c1
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -20,17 +24,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c19809fa9bbbda04c8fcbc8f4b31956c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c0693ad6a6f33b4ab219997832821a8, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -63,6 +65,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/Common/BuyHero/BuyHeroPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/portrait.assetbundle
