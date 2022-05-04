@@ -1,23 +1,21 @@
 ManifestFileVersion: 0
-CRC: 3724018144
+CRC: 3352097505
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 400abd7c803837553daebc5b8f48633b
+    Hash: f1b4dd034109de3f8cdce0aa03225f3f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: bfa9dbef66f9ab501cde4315286d0d4b
+    Hash: b72086de0ce39540bf5d5ae8e37e0c52
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
-- Class: 74
-  Script: {instanceID: 0}
-- Class: 91
-  Script: {instanceID: 0}
-- Class: 95
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -26,9 +24,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: 63bae014f9c227b4186f8f93ed9e669a, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -62,4 +60,3 @@ Assets:
 - Assets/Logic/M010/SelectBattleMode/SelectBattleModePanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle

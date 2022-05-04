@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1108089633
+CRC: 3320710094
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -453,9 +453,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_112:
       Name: hint.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+      Dependencies: {}
     Info_113:
       Name: option.assetbundle
       Dependencies:
@@ -681,9 +679,7 @@ AssetBundleManifest:
         Dependency_0: portrait.assetbundle
     Info_153:
       Name: createplayer.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+      Dependencies: {}
     Info_154:
       Name: bountymatch.assetbundle
       Dependencies:
@@ -717,7 +713,6 @@ AssetBundleManifest:
       Name: selectbattlemode.assetbundle
       Dependencies:
         Dependency_0: bg.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_161:
       Name: rune.assetbundle
       Dependencies:

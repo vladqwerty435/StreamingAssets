@@ -1,23 +1,21 @@
 ManifestFileVersion: 0
-CRC: 770647577
+CRC: 4279124208
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 72f4bc1b39c5ba66beeb4ff28aa42d03
+    Hash: 8ccf4df68494e073a5f53b0f0dacbdda
   TypeTreeHash:
     serializedVersion: 2
-    Hash: eaa83b97c97d093fc52ec2661e7eb879
+    Hash: eaff04b93b1376c1a73cc6d46585df2a
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
   Script: {instanceID: 0}
-- Class: 74
-  Script: {instanceID: 0}
-- Class: 91
-  Script: {instanceID: 0}
-- Class: 95
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -26,7 +24,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6773168b72ba54644a652b91fecdbf74, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -36,8 +38,6 @@ ClassTypes:
 - Class: 222
   Script: {instanceID: 0}
 - Class: 224
-  Script: {instanceID: 0}
-- Class: 225
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.CoreModule
@@ -58,6 +58,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/M089/Hint/HintPanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+Dependencies: []
