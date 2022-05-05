@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3827908042
+CRC: 423049383
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c2e46a471411144600489fa72c283e52
+    Hash: 960cc76ef63508803fbd529d202f9898
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 687a35047c52564807af4cfe4fc7d0f5
+    Hash: fb57bcad6337a041857cec6506c7fe2d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -44,9 +44,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed46b1b9f2eeede47b4bd7a4337d6b04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a00a6669424994e47b90e07674a3b287, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -88,5 +92,4 @@ Assets:
 - Assets/Logic/M103/CoinMatch/CoinMatchPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/ranknum.assetbundle

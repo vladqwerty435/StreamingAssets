@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 4018956269
+CRC: 382645945
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 31cf8faaff12c3d87c66855d4bc9fddc
+    Hash: 18f42f1d6ef0dfe505bf9488a91491da
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5518cf6fb2016697138458433852b041
+    Hash: ed7ef239255a033222fe10425cb16084
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -20,9 +24,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: 32214598e5285b14483bfc390688143d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b19f573ebe6a1a429331656c680867f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebb34383d1004784db0056b633b7343c, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -50,5 +62,4 @@ Assets:
 - Assets/Logic/M021/PVPBattleLoading/PVPBattleLoadingPanel.prefab
 - Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-4.png
 - Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-3.png
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []
