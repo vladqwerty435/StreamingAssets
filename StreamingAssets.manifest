@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1050014802
+CRC: 3319386223
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -279,7 +279,6 @@ AssetBundleManifest:
       Name: newbattle15.assetbundle
       Dependencies:
         Dependency_0: bg.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_74:
       Name: runepagechangename.assetbundle
       Dependencies:
