@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 3062056844
+CRC: 381613193
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d08ef850c5a541d5b376dcd411d36264
+    Hash: ec0737e168cb2dc4f1bf82f1a458f821
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9ac7d99c9e6ac23cb45787b1fb40b897
+    Hash: 7863a277f01c8d989b5d5a2b8378365e
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -22,9 +26,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: 2ca52e220c0f24f4eb5a19a31db15ad6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d7e30c58b57114eb4f905f9ce80747, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -56,5 +64,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/M017/NewBattle17/NewBattle17panel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []

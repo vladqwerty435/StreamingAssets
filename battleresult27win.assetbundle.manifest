@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 293687390
+CRC: 2563005792
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9ce16958d8a919a2976274a510c930d2
+    Hash: 1d30439f238830b6b4f995272cb7bcbb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cd9eaf98b46353fa2391ad9260f83d93
+    Hash: 0242d1eb978fb2b45379045c37dfbf00
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,8 +25,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 64
-  Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
 - Class: 91
@@ -41,5 +39,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Logic/M027/BattleResult27/BattleResult27WinPanel.prefab
+- Assets/Logic/BattleResult27/BattleResult27WinPanel.prefab
 Dependencies: []

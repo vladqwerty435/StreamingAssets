@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 3172474749
+CRC: 4082247202
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3525fb49b32c132a49fa78d4bf64537a
+    Hash: 78394ce5683d3a0e5bee4174480d3d3d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 791d06db76bdeec202c40c939e0c73c1
+    Hash: 5b95b59f75640b12231a960a27492fe6
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -20,17 +24,19 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a678ce5b414bd428321ac196977016, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+  Script: {fileID: 11500000, guid: d75093ed7ee3a084b96e8afdd943f7aa, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -42,6 +48,8 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleResult28Ctrl/Player
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.CoreModule
@@ -83,5 +91,4 @@ Assets:
 - Assets/Logic/M028/BattleResult29/Texture/29/Title/TRich.png
 - Assets/Logic/M028/BattleResult29/Texture/29/Title/TPentaKill.png
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/battleresult29.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle

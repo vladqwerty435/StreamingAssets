@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3319386223
+CRC: 399957862
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -58,7 +58,6 @@ AssetBundleManifest:
       Name: battleresult28.assetbundle
       Dependencies:
         Dependency_0: fonts.assetbundle
-        Dependency_1: battleresult29.assetbundle
     Info_16:
       Name: matchsystem.assetbundle
       Dependencies:
@@ -355,8 +354,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_92:
       Name: startgame.assetbundle
-      Dependencies:
-        Dependency_0: bg.assetbundle
+      Dependencies: {}
     Info_93:
       Name: rolepainting-10000401.assetbundle
       Dependencies: {}
@@ -460,8 +458,7 @@ AssetBundleManifest:
         Dependency_2: pagetext.assetbundle
     Info_114:
       Name: newbattle17.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_115:
       Name: achievement.assetbundle
       Dependencies:
@@ -563,8 +560,7 @@ AssetBundleManifest:
         Dependency_0: fonts.assetbundle
     Info_134:
       Name: battleresult27.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_135:
       Name: heroinfo.assetbundle
       Dependencies:
