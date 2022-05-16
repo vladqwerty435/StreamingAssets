@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 1030674082
+CRC: 194644226
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -574,9 +574,8 @@ AssetBundleManifest:
         Dependency_2: ranknum.assetbundle
         Dependency_3: vipicon.assetbundle
         Dependency_4: roleicon.assetbundle
-        Dependency_5: fonts.assetbundle
-        Dependency_6: pagetext.assetbundle
-        Dependency_7: frameicon.assetbundle
+        Dependency_5: pagetext.assetbundle
+        Dependency_6: frameicon.assetbundle
     Info_138:
       Name: storeskin.assetbundle
       Dependencies:
