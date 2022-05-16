@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 714858079
+CRC: 1306564861
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: ff60bf3fb2616f0b6703f7ffca92ad2b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 21ad09f8eb31ebd964c21023b03af6f8
+    Hash: c7adca36e3b2a8c823e0395a51673de7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -18,9 +18,9 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 32214598e5285b14483bfc390688143d, type: 3}
 - Class: 114
@@ -55,11 +55,11 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-2.png
-- Assets/Logic/M021/PVPBattleLoading/Texture/M021-ZX-Texture-BG.png
-- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-1.png
-- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-5.png
-- Assets/Logic/M021/PVPBattleLoading/PVPBattleLoadingPanel.prefab
-- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-4.png
-- Assets/Logic/M021/PVPBattleLoading/Proficiency/Ishuliandu-3.png
+- Assets/Logic/PVPBattleLoading/Proficiency/Ishuliandu-2.png
+- Assets/Logic/PVPBattleLoading/Texture/M021-ZX-Texture-BG.png
+- Assets/Logic/PVPBattleLoading/Proficiency/Ishuliandu-1.png
+- Assets/Logic/PVPBattleLoading/Proficiency/Ishuliandu-5.png
+- Assets/Logic/PVPBattleLoading/PVPBattleLoadingPanel.prefab
+- Assets/Logic/PVPBattleLoading/Proficiency/Ishuliandu-4.png
+- Assets/Logic/PVPBattleLoading/Proficiency/Ishuliandu-3.png
 Dependencies: []

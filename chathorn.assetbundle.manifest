@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2413221673
+CRC: 3709578478
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f147e3c03dc0a6f3581894fedbcab31d
+    Hash: a9fc4a7f796ecc11d8efc9571cd6d337
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0c66ee3582938f5ed2c35c431b4d16b6
+    Hash: 1cf627459b646942cf57358a642fe0ce
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,9 +20,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cbceddfe31f7c884ba0ac58675ea7a04, type: 3}
 - Class: 114
@@ -62,5 +62,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/M037/ChatHorn/ChatHornPanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+Dependencies: []

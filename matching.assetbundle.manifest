@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3715162049
+CRC: 3031691705
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d53b8befaea2cc5e93b65a2e3e16645b
+    Hash: ab76fd10877e11f50889a0f88b9d94ed
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ae057cb6196ba60698b902137023748e
+    Hash: 316f21b534d1cfdb90aa8c09694d1e7b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -24,9 +24,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
 - Class: 114
@@ -63,6 +63,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M016/Matching/MatchingPanel.prefab
+- Assets/Logic/Matching/MatchingPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle

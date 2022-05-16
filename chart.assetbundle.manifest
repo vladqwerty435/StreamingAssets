@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 587292924
+CRC: 1777267256
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 53285a586aaefdc90379962bac1b331d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 375b5cfd77b24a04e89077935865a191
+    Hash: 54d8cc3f3705f16e2d7571836d70246d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,9 +28,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
 - Class: 114
@@ -83,7 +83,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M032/Chart/ChartPanel.prefab
+- Assets/Logic/Chart/ChartPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/ranknum.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/vipicon.assetbundle

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 381613193
+CRC: 672538548
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: ec0737e168cb2dc4f1bf82f1a458f821
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7863a277f01c8d989b5d5a2b8378365e
+    Hash: aa3ac9d86f1d1707bfb29dfd3bcc7455
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,9 +20,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
@@ -63,5 +63,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M017/NewBattle17/NewBattle17panel.prefab
+- Assets/Logic/NewBattle17/NewBattle17panel.prefab
 Dependencies: []

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2559062294
+CRC: 3931851612
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 5a96bd725e506e90bd82fffc364d1c63
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f3be415eca3805b1e00b11971a6a1b03
+    Hash: 61bdf6edd5d5ee03d6f36558247ff314
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,9 +20,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 63bae014f9c227b4186f8f93ed9e669a, type: 3}
 - Class: 114
@@ -57,6 +57,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M010/SelectBattleMode/SelectBattleModePanel.prefab
+- Assets/Logic/SelectBattleMode/SelectBattleModePanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2013155924
+CRC: 2744520836
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b4ebc3b9137eceb3d030fb78eed20a53
+    Hash: 918bfe18a3e138f21b21249ffa0f71f2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5c99e29146daf4647a16f7d1fad73180
+    Hash: 5e9547ee9b58a4f16d33b870572ec51c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -22,9 +22,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
 - Class: 114
@@ -32,11 +32,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 803b9b30f619f964d899bb1a6e69bed4, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+  Script: {fileID: 11500000, guid: 0304e08d84534c3438b4a4b2ba4e39b1, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: 78feae6377d90a549b0d4f7b0d41c4df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2e4bad04d59cb144a95da317e4dca20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
 - Class: 114
@@ -75,6 +81,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M023/BattleOption/BattleOptionPanel.prefab
+- Assets/Logic/BattleOption/BattleOptionPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 451200225
+CRC: 406709040
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: f284b6fc426615a0479006936c876bcb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 27dd84776127b18357b1d3af6b278447
+    Hash: 40c71019df00632d5fdc0ee3fb1b10f3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -22,17 +22,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 736646482c204414e9e0e97cd02e25ae, type: 3}
 - Class: 114
@@ -77,5 +77,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M005/CumulativeLogin/CumulativeLoginPanel.prefab
+- Assets/Logic/CumulativeLogin/CumulativeLoginPanel.prefab
 Dependencies: []

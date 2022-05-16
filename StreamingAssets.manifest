@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 399957862
+CRC: 1104316776
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -19,7 +19,6 @@ AssetBundleManifest:
       Name: battleherodetail.assetbundle
       Dependencies:
         Dependency_0: skilltag.assetbundle
-        Dependency_1: pagetext.assetbundle
     Info_5:
       Name: skinr50000120.assetbundle
       Dependencies:
@@ -90,9 +89,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_25:
       Name: changename.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+      Dependencies: {}
     Info_26:
       Name: getrune.assetbundle
       Dependencies:
@@ -132,8 +129,6 @@ AssetBundleManifest:
       Name: battleinfo.assetbundle
       Dependencies:
         Dependency_0: roleicon.assetbundle
-        Dependency_1: fonts.assetbundle
-        Dependency_2: pagetext.assetbundle
     Info_37:
       Name: chart.assetbundle
       Dependencies:
@@ -239,9 +234,7 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: bg.assetbundle
         Dependency_1: icon.assetbundle
-        Dependency_2: fonts.assetbundle
-        Dependency_3: pagetext.assetbundle
-        Dependency_4: frameicon.assetbundle
+        Dependency_2: frameicon.assetbundle
     Info_66:
       Name: needconfirmnotice.assetbundle
       Dependencies:
@@ -399,7 +392,6 @@ AssetBundleManifest:
       Name: skinwindow19.assetbundle
       Dependencies:
         Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
     Info_102:
       Name: skillicon-10000501.assetbundle
       Dependencies: {}
@@ -454,8 +446,7 @@ AssetBundleManifest:
       Name: option.assetbundle
       Dependencies:
         Dependency_0: bg.assetbundle
-        Dependency_1: fonts.assetbundle
-        Dependency_2: pagetext.assetbundle
+        Dependency_1: pagetext.assetbundle
     Info_114:
       Name: newbattle17.assetbundle
       Dependencies: {}
@@ -503,9 +494,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_124:
       Name: pvpplayerskillselect.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+      Dependencies: {}
     Info_125:
       Name: storelottery.assetbundle
       Dependencies:
@@ -601,9 +590,7 @@ AssetBundleManifest:
         Dependency_1: fonts.assetbundle
     Info_139:
       Name: changeguildname.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+      Dependencies: {}
     Info_140:
       Name: breakrunegetpiece.assetbundle
       Dependencies:
@@ -654,8 +641,7 @@ AssetBundleManifest:
       Name: pvpheroselect.assetbundle
       Dependencies:
         Dependency_0: skilltag.assetbundle
-        Dependency_1: fonts.assetbundle
-        Dependency_2: shader.assetbundle
+        Dependency_1: shader.assetbundle
     Info_150:
       Name: friend.assetbundle
       Dependencies:
@@ -737,8 +723,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_167:
       Name: chathorn.assetbundle
-      Dependencies:
-        Dependency_0: pagetext.assetbundle
+      Dependencies: {}
     Info_168:
       Name: skinr50000080.assetbundle
       Dependencies:

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3208072779
+CRC: 1784812678
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 22490059ce79376e5597e3195479260d
+    Hash: 8ebc02c3387b8624cd002de39e4bee9f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: fd181018855fcd8839bc4985bae8532f
+    Hash: 9aa774090f804637e14c359dcd0ea52e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -32,15 +32,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  Script: {fileID: 11500000, guid: 714ba6648625b8b489e2a3045cac8367, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+  Script: {fileID: 11500000, guid: b61df742fafee744a955e0fb85a209d2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
@@ -48,17 +48,45 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 60a3d6c9c8fc0f94ba64d0875dc835ca, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5230f545fdafc4847ba7aa98ac22bf31, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 8e8f6d6b627b3a34e863919f859d7327, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a7e1515d5326ea43a0aac94feaf496e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0cacf58adcef2849a478210ad5df018, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99779572dd5a3464a919511cb462d80b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d684287e86e43240a5d27a25cf3dff8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe10aba543e4eac4b8f0345b6ddea623, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f5846c32fd71b44a951a674a01dbf8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: 0ba0b44ce910a44409dec240165acbaf, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2aa6c4addb7a3d8438131af0101a20c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -105,54 +133,54 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M022/Texture/Asset/BUI-DebuffVertigo.png
-- Assets/Logic/M022/Texture/Asset/BUI-K-A-IV-Bg.png
-- Assets/Logic/M022/Texture/Asset/BUI-K-E-First-Bg.png
-- Assets/Logic/M022/Texture/Asset/BUI-CellEnemy.png
-- Assets/Logic/M022/Texture/Asset/BUI-RBStop.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000402.png
-- Assets/Logic/M022/Texture/Asset/BUI-RB3.png
-- Assets/Logic/M022/Texture/Asset/BUI-RB1.png
-- Assets/Logic/M022/Texture/Asset/BUI-K-E-Normal-Bg.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000001.png
-- Assets/Logic/M022/Texture/Asset/BUI-K-A-II-Bg.png
-- Assets/Logic/M022/Texture/Asset/BUI-TowerIconAlly.png
-- Assets/Logic/M022/Texture/Asset/BUI-Tag4.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000303.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000301.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11001401.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000002.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000102.png
-- Assets/Logic/M022/Texture/Asset/BUI-RB2.png
-- Assets/Logic/M022/Texture/Asset/BUI-Sign.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000302.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000101.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11001101.png
-- Assets/Logic/M022/Texture/Asset/Icon/I16011011.png
-- Assets/Logic/M022/Texture/Asset/BUI-Tag3.png
-- Assets/Logic/M022/Texture/Asset/BUI-Tag1.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000202.png
-- Assets/Logic/M022/Texture/Asset/BUI-Capitulate.png
-- Assets/Logic/M022/Texture/Asset/BUI-TowerIconEnemy.png
-- Assets/Logic/M022/Texture/Asset/Icon/I16035201.png
-- Assets/Logic/M022/Texture/Asset/BUI-Capitulate2.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000501.png
-- Assets/Logic/M022/Texture/Asset/Icon/I16017201.png
-- Assets/Logic/M022/Texture/Asset/BUI-CellSelf.png
-- Assets/Logic/M022/Texture/Asset/BUI-CenterCircleBlue.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000201.png
-- Assets/Logic/M022/Texture/Asset/BUI-K-A-First-Bg.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000103.png
-- Assets/Logic/M022/Texture/Asset/BUI-Tag2.png
-- Assets/Logic/M022/Texture/Asset/BUI-K-A-Normal-Bg.png
-- Assets/Logic/M022/Texture/Asset/BUI-CenterCircleRed.png
-- Assets/Logic/M022/Texture/Asset/BUI-CellAlly.png
-- Assets/Logic/M022/Texture/Asset/BUI-K-E-IV-Bg.png
-- Assets/Logic/M022/UIBattlePanel.prefab
-- Assets/Logic/M022/Texture/Asset/BUI-K-E-II-Bg.png
-- Assets/Logic/M022/Texture/Asset/Icon/I11000401.png
-- Assets/Logic/M022/Texture/Asset/BUI-RBPlay.png
-- Assets/Logic/M022/Texture/Asset/BUI-DebuffStriking.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-DebuffVertigo.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-K-A-IV-Bg.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-K-E-First-Bg.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-CellEnemy.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-RBStop.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000402.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-RB3.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-RB1.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-K-E-Normal-Bg.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000001.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-K-A-II-Bg.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-TowerIconAlly.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-Tag4.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000303.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000301.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11001401.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000002.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000102.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-RB2.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-Sign.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000302.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000101.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11001101.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I16011011.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-Tag3.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-Tag1.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000202.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-Capitulate.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-TowerIconEnemy.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I16035201.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-Capitulate2.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000501.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I16017201.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-CellSelf.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-CenterCircleBlue.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000201.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-K-A-First-Bg.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000103.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-Tag2.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-K-A-Normal-Bg.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-CenterCircleRed.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-CellAlly.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-K-E-IV-Bg.png
+- Assets/Logic/UIBattle/UIBattlePanel.prefab
+- Assets/Logic/UIBattle/Texture/Asset/BUI-K-E-II-Bg.png
+- Assets/Logic/UIBattle/Texture/Asset/Icon/I11000401.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-RBPlay.png
+- Assets/Logic/UIBattle/Texture/Asset/BUI-DebuffStriking.png
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/battleui.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 28782639
+CRC: 3345904745
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 1a0fcdb8164fc92291488cbb7fb15c1e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a9e63343af3e31a58f2dc27efa934b49
+    Hash: 29d8a51f88c23ddaeba6f65a2bb4bb2b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -20,9 +20,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
 - Class: 114
@@ -61,5 +61,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M032/PlayerInfoOnChart/PlayerInfoOnChartPanel.prefab
+- Assets/Logic/PlayerInfoOnChart/PlayerInfoOnChartPanel.prefab
 Dependencies: []
