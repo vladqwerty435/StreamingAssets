@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 592376629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9294d28a5654ca8f747dc382d5f24a59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Logic/Icon/AchieveIcon/I31000033.png
+- Assets/Logic/Icon/AchieveIcon/I31000031.png
+- Assets/Logic/Icon/AchieveIcon/I31000027.png
+- Assets/Logic/Icon/AchieveIcon/I31000032.png
+- Assets/Logic/Icon/AchieveIcon/I31000029.png
+- Assets/Logic/Icon/AchieveIcon/I31000023.png
+- Assets/Logic/Icon/AchieveIcon/I31000026.png
+- Assets/Logic/Icon/AchieveIcon/I31000025.png
+- Assets/Logic/Icon/AchieveIcon/I31000039.png
+- Assets/Logic/Icon/AchieveIcon/I31000037.png
+- Assets/Logic/Icon/AchieveIcon/I31000035.png
+- Assets/Logic/Icon/AchieveIcon/I31000041.png
+- Assets/Logic/Icon/AchieveIcon/I31000036.png
+- Assets/Logic/Icon/AchieveIcon/I31000024.png
+- Assets/Logic/Icon/AchieveIcon/I31000038.png
+- Assets/Logic/Icon/AchieveIcon/I31000034.png
+- Assets/Logic/Icon/AchieveIcon/I31000040.png
+- Assets/Logic/Icon/AchieveIcon/I31000043.png
+- Assets/Logic/Icon/AchieveIcon/I31000042.png
+- Assets/Logic/Icon/AchieveIcon/I31000030.png
+- Assets/Logic/Icon/AchieveIcon/I31000028.png
+Dependencies: []

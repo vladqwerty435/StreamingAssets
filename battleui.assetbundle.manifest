@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1415339710
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4e7db4c67266fd54b43e062f2e6b2fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31a8e35008e8aab720d0136425be6fad
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Logic/UIBattle/AniamtorOld/CritNumber.anim
+- Assets/Logic/UIBattle/AniamtorOld/UBattle-Waring-Bg.controller
+- Assets/Logic/UIBattle/AniamtorOld/BreakageLevel.anim
+- Assets/Logic/UIBattle/AniamtorOld/BattleUI/BattleUI.controller
+- Assets/Logic/UIBattle/Animator/AnimatorMessage/Message.controller
+- Assets/Logic/UIBattle/AniamtorOld/HeartLineMask.controller
+- Assets/Logic/UIBattle/AniamtorOld/GameStartCountDown.controller
+- Assets/Logic/UIBattle/AniamtorOld/ATKButton-Twinkle.controller
+- Assets/Logic/UIBattle/AniamtorOld/UBattle-Waring-Bg.anim
+- Assets/Logic/UIBattle/AniamtorOld/BattleUI/BattleUINormalState.anim
+- Assets/Logic/UIBattle/AniamtorOld/BreakageLevel.controller
+- Assets/Logic/UIBattle/AniamtorOld/ContinuousDisplay.anim
+- Assets/Logic/UIBattle/AniamtorOld/CombatVictory.controller
+- Assets/Logic/UIBattle/AniamtorOld/JumpImage/damage3.anim
+- Assets/Logic/UIBattle/AniamtorOld/NTGUIButtonState.controller
+- Assets/Logic/UIBattle/AniamtorOld/HeartBeatLine.anim
+- Assets/Logic/UIBattle/AniamtorOld/DurationState.anim
+- Assets/Logic/UIBattle/AniamtorOld/BattleUI/BattleStart.anim
+- Assets/Logic/UIBattle/AniamtorOld/NTGUIButton.anim
+- Assets/Logic/UIBattle/AniamtorOld/DurationStateOver.anim
+- Assets/Logic/UIBattle/AniamtorOld/ATKButton-Twinkle.anim
+- Assets/Logic/UIBattle/AniamtorOld/JumpImage/recover.anim
+- Assets/Logic/UIBattle/AniamtorOld/CombatVictory.anim
+- Assets/Logic/UIBattle/AniamtorOld/JumpImage/damageMiss.anim
+- Assets/Logic/UIBattle/AniamtorOld/BattleUI/ReviveStart.anim
+- Assets/Logic/UIBattle/AniamtorOld/JumpImage/damage2.anim
+- Assets/Logic/UIBattle/AniamtorOld/JumpImage/battleDamage.controller
+- Assets/Logic/UIBattle/AniamtorOld/GameStartCountDown.anim
+- Assets/Logic/UIBattle/AniamtorOld/JumpImage/Normal.anim
+- Assets/Logic/UIBattle/AniamtorOld/KillMessage.anim
+Dependencies: []

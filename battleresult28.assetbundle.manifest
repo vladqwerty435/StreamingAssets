@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 343961779
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4e03cc3f64ff25c0ab3657804fe644c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b95b59f75640b12231a960a27492fe6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a678ce5b414bd428321ac196977016, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d75093ed7ee3a084b96e8afdd943f7aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: BattleResult28Ctrl/Player
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Logic/BattleResult29/Texture/29/Title/TDPS.png
+- Assets/Logic/BattleResult28/Share2829/Texture/M028-ZX-Data-0046.png
+- Assets/Logic/BattleResult29/Texture/29/Title/TAssist.png
+- Assets/Logic/BattleResult28/Share2829/Texture/M028-ZX-Data-0044.png
+- Assets/Logic/BattleResult28/BattleResult28Panel.prefab
+- Assets/Logic/BattleResult29/Texture/29/Title/TLegendary.png
+- Assets/Logic/BattleResult28/Share2829/Texture/M028-ZX-Data-0042.png
+- Assets/Logic/BattleResult28/Share2829/Texture/M028-ZX-Data-0043.png
+- Assets/Logic/BattleResult29/Texture/29/Title/TWinnerMvp.png
+- Assets/Logic/BattleResult28/Share2829/Texture/M028-ZX-Data-0041.png
+- Assets/Logic/BattleResult29/Texture/29/Title/TRusher.png
+- Assets/Logic/BattleResult29/Texture/29/Title/TTank.png
+- Assets/Logic/BattleResult28/Share2829/Texture/M028-ZX-Data-0040.png
+- Assets/Logic/BattleResult29/Texture/29/Title/TKiller.png
+- Assets/Logic/BattleResult28/Share2829/Texture/M028-ZX-Data-0047.png
+- Assets/Logic/BattleResult28/Share2829/Texture/M028-ZX-Texture-0001.png
+- Assets/Logic/BattleResult29/Texture/29/Title/TQuadraKill.png
+- Assets/Logic/BattleResult29/Texture/29/Title/TTripleKill.png
+- Assets/Logic/BattleResult29/Texture/29/Title/TDeserter.png
+- Assets/Logic/BattleResult29/Texture/29/Title/TRich.png
+- Assets/Logic/BattleResult29/Texture/29/Title/TPentaKill.png
+Dependencies: []

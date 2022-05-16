@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 1529069154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60d73e3062d1028abbd5acd92d3f92b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d46eb3fa5ad04f1dd38353c5395b2d75
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5230f545fdafc4847ba7aa98ac22bf31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b148b1e12fe64f74da56608a28c83c33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c016f41b953bf941ab5f04a15d13563, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0aff025a97ecb8c4aba555a9c59115fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e006269e868864f45a183fda1fce538a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f870e0713dea3441b98e00a8fcd34f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af94b0a53a5f27449842367f3e3df3d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 974d235587451574e9b79738bbd01f92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d1cead068e1e72478c93cc8a5b0ac3f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Logic/NewBattle14/NewBattle14Panel.prefab
+Dependencies: []

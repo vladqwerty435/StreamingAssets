@@ -1,0 +1,124 @@
+ManifestFileVersion: 0
+CRC: 2148198146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16ccfa4856bbc158c67d4d452d172ab4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b8e38bffcd8d8c19562f62d6babd2aa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 32214598e5285b14483bfc390688143d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c742a4d1032f784f97d491a6e44ef18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a5169ac31bdb7ae489029a94027a35ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/OnChangeEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/SubmitEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0022.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-29-0013.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0026.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0038.png
+- Assets/Logic/BattleResult29/Texture/29/common/M028-ZX-Common-0014.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0025.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0036.png
+- Assets/Logic/BattleResult29/Texture/29/data/M028-ZX-Data-0018.png
+- Assets/Logic/BattleResult29/Texture/29/common/M028-ZX-Common-0015.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0030.png
+- Assets/Logic/BattleResult29/Texture/29/common/M028-ZX-Common-0017.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-29-0012.png
+- Assets/Logic/BattleResult29/Texture/29/common/M028-ZX-Common-0016.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-29-0011.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0033.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0037.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-29-0010.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0023.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0039.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0027.png
+- Assets/Logic/BattleResult29/BattleResult29Panel.prefab
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0034.png
+- Assets/Logic/BattleResult29/Texture/29/data/M028-ZX-Data-0019.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0029.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-TipsFrame.png
+- Assets/Logic/BattleResult29/Texture/29/data/M028-ZX-Data-0021.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0024.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0028.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0032.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0031.png
+- Assets/Logic/BattleResult29/Texture/29/M028-ZX-Data-0035.png
+- Assets/Logic/BattleResult29/Texture/29/data/M028-ZX-Data-0020.png
+Dependencies:
+- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/battleresult28.assetbundle
+- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/equipicon.assetbundle
+- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle

@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2626508186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d9f53ff976ae6b0b4d9537d02dc89468
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Logic/Icon/Portrait/P11000401.png
+- Assets/Logic/Icon/Portrait/P11000301.png
+- Assets/Logic/Icon/Portrait/P11001401.png
+- Assets/Logic/Icon/Portrait/P11000101.png
+- Assets/Logic/Icon/Portrait/P11000501.png
+- Assets/Logic/Icon/Portrait/P11000002.png
+- Assets/Logic/Icon/Portrait/P11000302.png
+- Assets/Logic/Icon/Portrait/P11000201.png
+- Assets/Logic/Icon/Portrait/P11000001.png
+- Assets/Logic/Icon/Portrait/P11000102.png
+- Assets/Logic/Icon/Portrait/P11001101.png
+- Assets/Logic/Icon/Portrait/P11000402.png
+- Assets/Logic/Icon/Portrait/P11000202.png
+- Assets/Logic/Icon/Portrait/P11000303.png
+- Assets/Logic/Icon/Portrait/P11000103.png
+Dependencies: []
