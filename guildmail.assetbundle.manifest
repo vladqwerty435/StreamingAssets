@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 1990190715
+CRC: 2340995865
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: edf3e6f5a636e30e1a4434282f184b00
+    Hash: b53c54016901431fd18048fa64437350
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1e9588a542cb668e5e46199a64b53357
+    Hash: 01b70f23ab93a17494b4651d841d5eac
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -63,6 +67,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M098/GuildMail/GuildMailPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/guildsprite.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

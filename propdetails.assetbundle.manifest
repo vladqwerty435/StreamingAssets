@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 3923481850
+CRC: 2164587405
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 227a7284d7075de5dca28d009166ea07
+    Hash: 89bac31f71d8a37fd107353241304f4b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 166cf0dc453e6e20319e5632d9722a24
+    Hash: c8e2885c0e76b54d97f9e8252a8e8ac7
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -59,5 +63,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M047/PropDetailsPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 2649320246
+CRC: 1293387724
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0e11ba4fbbcd95e6f00d335c9f709e6a
+    Hash: f653881e55cde37fd4f7414353dd1c8b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8f9f048eebbc0fe81c2ae5663d392d5a
+    Hash: 36273256a1262393cd98f9a8d3742d85
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -71,7 +75,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M049/PartShopPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/portrait.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/skintag.assetbundle

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4019097312
+CRC: 2023733689
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cc2c2ba400f57b71bdd2f65621457167
+    Hash: f58c2679c311856a2b449e8736a4e126
   TypeTreeHash:
     serializedVersion: 2
     Hash: 655a19451feef39573168ef687f15271
@@ -118,7 +118,6 @@ Assets:
 - Assets/Logic/M066/HeroInfo/HeroInfoPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/classicon.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/icon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/portrait.assetbundle

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1108266266
+CRC: 3267431027
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 83ce927596cae9bdebd2badbd6586f09
+    Hash: 12f7de2a6f12248daf76c06208688826
   TypeTreeHash:
     serializedVersion: 2
     Hash: e30ea0a98a2303cab097178137bc7606
@@ -62,5 +62,4 @@ Assets:
 - Assets/Logic/M075/EquipInside/EquipInsidePanel.prefab
 - Assets/Logic/M075/EquipInside/Texture/UEquipInside-BaseIcon.png
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

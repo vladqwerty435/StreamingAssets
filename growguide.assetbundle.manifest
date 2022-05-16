@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 581129984
+CRC: 1788793818
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a764e4532579ee814c5b8b0bbe7d6723
+    Hash: 7166054a0be96d701edbb5e629aaa904
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0aa7e1238faf2d68dc5e8b670abc0005
@@ -92,6 +92,5 @@ Assets:
 - Assets/Logic/M079/GrowGuide/GrowGuidePanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/itemicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

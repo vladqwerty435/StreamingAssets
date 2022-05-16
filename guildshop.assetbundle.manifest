@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 1553444743
+CRC: 3318546334
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 710262ccf23e5b15f6b484ea74c77360
+    Hash: 331bf63a7af1738eaf91b228c9f9bb2b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3a8b119d0d4d96da4cb1e8e56c08ad00
+    Hash: 3a6dafc90de290a7ecc96829a82ce08e
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -74,7 +78,6 @@ Assets:
 - Assets/Logic/M097/GuildShop/GuildShopPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/guildsprite.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/icon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

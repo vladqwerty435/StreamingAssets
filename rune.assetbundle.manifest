@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2793787767
+CRC: 303089708
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: be7ad20b01f304a16c943374539d77e1
+    Hash: 9e7f99bb55c54db59b4b9db6c081706b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8dc0b6738c0a5befe51f9826482d2569
@@ -100,7 +100,6 @@ Assets:
 - Assets/Logic/M067/RunePanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/runeicon.assetbundle

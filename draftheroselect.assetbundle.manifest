@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1048382866
+CRC: 4092616976
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f66e87a7a33f07b535ec977adb5b7fd4
+    Hash: 49b5552dba7f75cb037b52de9ab00f31
   TypeTreeHash:
     serializedVersion: 2
     Hash: c795af7bb42f2a56f21d6148a8e05112
@@ -87,6 +87,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M136/DraftHeroSelect/DraftHeroSelectPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pvpbattleloading.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle

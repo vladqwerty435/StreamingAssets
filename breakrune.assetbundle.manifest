@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 18952846
+CRC: 1613899530
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 34ea3254a4ac1db4801d1f01d4f0e86e
+    Hash: d9667aee8d1912e877a6da3b49384b15
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e1a5b8fd59b8bfde7982238658b8bb59
+    Hash: 3de406a9456da8c81f89364e07370f51
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -69,5 +73,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M069/BreakRune/BreakRunePanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
