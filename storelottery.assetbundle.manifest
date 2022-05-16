@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3982132707
+CRC: 3676643421
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 628b1e861495328da78f23a35c4dd2b8
+    Hash: d9ea60b335288df4a5e784901d4301cf
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2c62b9d532a95cdbd411ffcb5d06a96e
@@ -97,7 +97,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M047/StoreLotteryPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/icon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/itemicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle

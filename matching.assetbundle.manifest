@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3031691705
+CRC: 4150778319
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ab76fd10877e11f50889a0f88b9d94ed
+    Hash: 99099cb0898a398ea472121c65b72904
   TypeTreeHash:
     serializedVersion: 2
     Hash: 316f21b534d1cfdb90aa8c09694d1e7b
@@ -64,5 +64,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/Matching/MatchingPanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []

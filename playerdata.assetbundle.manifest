@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 440317941
+CRC: 2108535258
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1635d65281a0c71fbf85d3dbc1609d8f
+    Hash: 771629ebcb5f5c4141e419d136c8ecfd
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7e6d59b5b7f1d18705810ec50e0a0427
@@ -118,7 +118,6 @@ Assets:
 - Assets/Logic/PlayerData/PlayerDataPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/frameicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/honoricon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/icon.assetbundle

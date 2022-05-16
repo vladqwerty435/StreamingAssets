@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 894540230
+CRC: 742007488
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c000a95c423872f4b77d755c06f41296
+    Hash: f0348a0a86863205acbbea4bd8b8a297
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 44d3ddf8233a91bf6b19082a817978dd
+    Hash: 9dab9c678e33700e3354cf002877230e
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -79,5 +83,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M082/GridHistoryPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1291207540
+CRC: 3319325257
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9ab46b9e223f6cd916fea965287c81d5
+    Hash: 0f3545d42cda7a3d31bf52556362027d
   TypeTreeHash:
     serializedVersion: 2
     Hash: cd1fb062ec3282613d8004fc1837109e
@@ -85,5 +85,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M110/RankStarChange/RankStarChangePanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/rankicon-i18000007.assetbundle

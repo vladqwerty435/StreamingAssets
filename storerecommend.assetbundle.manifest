@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 494791198
+CRC: 486820187
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fdf3ceee2410e1c27ed6fbda4a9698d3
+    Hash: 7488d3814570ac0d6b5b7caee47c33ab
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1fe879edadaf1ead38d2fb8a6555318e
+    Hash: 5deb7069fb67afa86fc2a008fb3dd8a5
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -73,5 +77,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M047/StoreRecommendPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/resourceicon.assetbundle

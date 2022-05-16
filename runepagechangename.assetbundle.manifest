@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 225412487
+CRC: 2886762807
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f40bf264d96a951455590e64999bd75e
+    Hash: c8804577964f6305f57ed23c2af3c83c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9c765ce89a5bd5e10913a361f6daafac
+    Hash: 972580535e24c35e302cbbb8c605f3bb
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -61,5 +65,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M071/RunePageChangeName/RunePageChangeNamePanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

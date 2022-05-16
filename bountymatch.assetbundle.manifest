@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 344340520
+CRC: 882993937
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5f9609646ea0ad231211e8c3c1ae52f7
+    Hash: 39a7e79cf49daff512d595dc35147dbb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2d43fbd6f01d544a805211201163b9cf
+    Hash: 9750801435d4c011a265bbdbef6cc998
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -54,5 +58,4 @@ Assets:
 - Assets/Logic/M103/BountyMatch/BountyMatchPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/matchsystem.assetbundle

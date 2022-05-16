@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 3021935118
+CRC: 1577759286
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8818507870cd9636c4fffb7682ddcdeb
+    Hash: 8f55249f418c70b43e277ece9081f87a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 206d3387a872d586d4acccba112f781c
+    Hash: 2f454235a19a6c3904e07315f97bc926
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
@@ -93,6 +97,5 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M037/Chat/ChatPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/vipicon.assetbundle

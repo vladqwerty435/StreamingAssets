@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1784812678
+CRC: 3607352422
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8ebc02c3387b8624cd002de39e4bee9f
+    Hash: cc18b671b7b29b2b3c9d53d7d82487d9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9aa774090f804637e14c359dcd0ea52e
@@ -183,5 +183,4 @@ Assets:
 - Assets/Logic/UIBattle/Texture/Asset/BUI-DebuffStriking.png
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/battleui.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/honoricon.assetbundle

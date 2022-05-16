@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 114665686
+CRC: 1168334740
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 83ba8cc012c512ee4af5cdd888cf439d
+    Hash: 437a834710a3fa733f577b5b9a19014f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 067c580267edd513ab7e3238e47e8f0c
+    Hash: cc72e4c6981f8f6ce373063f650ab0f9
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -78,5 +82,4 @@ Assets:
 - Assets/Logic/M065/PreviewHero/PreviewHeroPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/icon.assetbundle

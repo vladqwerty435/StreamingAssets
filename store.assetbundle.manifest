@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4091650882
+CRC: 1873970477
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 93f335464b582512f7cb41a623bf7394
+    Hash: 2b11c70449c7b75669670f09f53c012c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 260fb360c5cb47f65cdff5b5de6ac093
@@ -92,5 +92,4 @@ Assets:
 - Assets/Logic/M047/StorePanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/icon.assetbundle

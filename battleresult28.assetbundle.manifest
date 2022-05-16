@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3155025728
+CRC: 343961779
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 78394ce5683d3a0e5bee4174480d3d3d
+    Hash: e4e03cc3f64ff25c0ab3657804fe644c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2dc951b89f1f6f1c239239a0a680a588
@@ -90,5 +90,4 @@ Assets:
 - Assets/Logic/BattleResult29/Texture/29/Title/TDeserter.png
 - Assets/Logic/BattleResult29/Texture/29/Title/TRich.png
 - Assets/Logic/BattleResult29/Texture/29/Title/TPentaKill.png
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 194644226
+CRC: 3597999174
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -51,17 +51,14 @@ AssetBundleManifest:
       Name: uibattle.assetbundle
       Dependencies:
         Dependency_0: honoricon.assetbundle
-        Dependency_1: fonts.assetbundle
-        Dependency_2: battleui.assetbundle
+        Dependency_1: battleui.assetbundle
     Info_15:
       Name: battleresult28.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_16:
       Name: matchsystem.assetbundle
       Dependencies:
         Dependency_0: bg.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_17:
       Name: achieveicon.assetbundle
       Dependencies: {}
@@ -107,7 +104,6 @@ AssetBundleManifest:
       Name: playerskill.assetbundle
       Dependencies:
         Dependency_0: bg.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_31:
       Name: roleicon.assetbundle
       Dependencies: {}
@@ -177,21 +173,18 @@ AssetBundleManifest:
         Dependency_0: shader.assetbundle
     Info_51:
       Name: normalresource.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_52:
       Name: skillicon-10000002.assetbundle
       Dependencies: {}
     Info_53:
       Name: recentgame.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_54:
       Name: rankstarchange.assetbundle
       Dependencies:
         Dependency_0: rankicon-i18000007.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_55:
       Name: playerskillillustration.assetbundle
       Dependencies: {}
@@ -201,8 +194,7 @@ AssetBundleManifest:
     Info_57:
       Name: showmodle.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: shader.assetbundle
+        Dependency_0: shader.assetbundle
     Info_58:
       Name: guildlevelicon.assetbundle
       Dependencies: {}
@@ -211,8 +203,7 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: itemicon.assetbundle
         Dependency_1: icon.assetbundle
-        Dependency_2: fonts.assetbundle
-        Dependency_3: pagetext.assetbundle
+        Dependency_2: pagetext.assetbundle
     Info_60:
       Name: cumulativelogin.assetbundle
       Dependencies: {}
@@ -249,7 +240,6 @@ AssetBundleManifest:
       Name: storehero.assetbundle
       Dependencies:
         Dependency_0: resourceicon.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_69:
       Name: playerinfoonchart.assetbundle
       Dependencies: {}
@@ -258,7 +248,6 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: bg.assetbundle
         Dependency_1: resourceicon.assetbundle
-        Dependency_2: fonts.assetbundle
     Info_71:
       Name: skinr50000040.assetbundle
       Dependencies:
@@ -273,8 +262,7 @@ AssetBundleManifest:
     Info_74:
       Name: runepagechangename.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_75:
       Name: skillicon-10000201.assetbundle
       Dependencies: {}
@@ -298,7 +286,6 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: bg.assetbundle
         Dependency_1: icon.assetbundle
-        Dependency_2: fonts.assetbundle
     Info_82:
       Name: rolepainting-10000101.assetbundle
       Dependencies: {}
@@ -316,31 +303,26 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: bg.assetbundle
         Dependency_1: achieveicon.assetbundle
-        Dependency_2: fonts.assetbundle
     Info_87:
       Name: promote.assetbundle
       Dependencies:
         Dependency_0: bg.assetbundle
         Dependency_1: playerskillicon.assetbundle
-        Dependency_2: fonts.assetbundle
     Info_88:
       Name: matching.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_89:
       Name: bountymatchchart.assetbundle
       Dependencies:
         Dependency_0: bg.assetbundle
         Dependency_1: ranknum.assetbundle
         Dependency_2: vipicon.assetbundle
-        Dependency_3: fonts.assetbundle
     Info_90:
       Name: rank.assetbundle
       Dependencies:
         Dependency_0: ranknum.assetbundle
         Dependency_1: roleicon.assetbundle
-        Dependency_2: fonts.assetbundle
-        Dependency_3: rankicon-i18000006.assetbundle
+        Dependency_2: rankicon-i18000006.assetbundle
     Info_91:
       Name: bg-login.assetbundle
       Dependencies: {}
@@ -358,17 +340,14 @@ AssetBundleManifest:
         Dependency_2: ranknum.assetbundle
         Dependency_3: vipicon.assetbundle
         Dependency_4: roleicon.assetbundle
-        Dependency_5: fonts.assetbundle
-        Dependency_6: pagetext.assetbundle
-        Dependency_7: frameicon.assetbundle
+        Dependency_5: pagetext.assetbundle
+        Dependency_6: frameicon.assetbundle
     Info_95:
       Name: storerune.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_96:
       Name: newbattle14.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_97:
       Name: rankicon-i18000006.assetbundle
       Dependencies: {}
@@ -378,8 +357,7 @@ AssetBundleManifest:
         Dependency_0: equipicon.assetbundle
         Dependency_1: battleresult28.assetbundle
         Dependency_2: roleicon.assetbundle
-        Dependency_3: fonts.assetbundle
-        Dependency_4: pagetext.assetbundle
+        Dependency_3: pagetext.assetbundle
     Info_99:
       Name: rolepainting-10000102.assetbundle
       Dependencies: {}
@@ -389,8 +367,7 @@ AssetBundleManifest:
         Dependency_0: pagetext.assetbundle
     Info_101:
       Name: skinwindow19.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_102:
       Name: skillicon-10000501.assetbundle
       Dependencies: {}
@@ -408,7 +385,6 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: bg.assetbundle
         Dependency_1: icon.assetbundle
-        Dependency_2: fonts.assetbundle
     Info_105:
       Name: rolepainting-10000402.assetbundle
       Dependencies: {}
@@ -416,7 +392,6 @@ AssetBundleManifest:
       Name: previewequip.assetbundle
       Dependencies:
         Dependency_0: bg.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_107:
       Name: skinr50000050.assetbundle
       Dependencies:
@@ -428,8 +403,7 @@ AssetBundleManifest:
     Info_109:
       Name: battlemallselecthero.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_110:
       Name: battleachieve.assetbundle
       Dependencies:
@@ -499,7 +473,6 @@ AssetBundleManifest:
         Dependency_1: itemicon.assetbundle
         Dependency_2: roleicon.assetbundle
         Dependency_3: icon.assetbundle
-        Dependency_4: fonts.assetbundle
     Info_126:
       Name: giftdetails.assetbundle
       Dependencies: {}
@@ -517,14 +490,12 @@ AssetBundleManifest:
         Dependency_1: bg.assetbundle
         Dependency_2: ranknum.assetbundle
         Dependency_3: icon.assetbundle
-        Dependency_4: fonts.assetbundle
-        Dependency_5: pagetext.assetbundle
-        Dependency_6: frameicon.assetbundle
+        Dependency_4: pagetext.assetbundle
+        Dependency_5: frameicon.assetbundle
     Info_130:
       Name: draftrule.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_131:
       Name: rolepainting-10000303.assetbundle
       Dependencies: {}
@@ -536,13 +507,11 @@ AssetBundleManifest:
         Dependency_2: ranknum.assetbundle
         Dependency_3: vipicon.assetbundle
         Dependency_4: roleicon.assetbundle
-        Dependency_5: fonts.assetbundle
-        Dependency_6: pagetext.assetbundle
-        Dependency_7: frameicon.assetbundle
+        Dependency_5: pagetext.assetbundle
+        Dependency_6: frameicon.assetbundle
     Info_133:
       Name: storepreferential.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_134:
       Name: battleresult27.assetbundle
       Dependencies: {}
@@ -580,15 +549,13 @@ AssetBundleManifest:
       Name: storeskin.assetbundle
       Dependencies:
         Dependency_0: resourceicon.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_139:
       Name: changeguildname.assetbundle
       Dependencies: {}
     Info_140:
       Name: breakrunegetpiece.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_141:
       Name: frameicon.assetbundle
       Dependencies: {}
@@ -606,14 +573,12 @@ AssetBundleManifest:
     Info_144:
       Name: startbountymatch.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_145:
       Name: chat.assetbundle
       Dependencies:
         Dependency_0: vipicon.assetbundle
         Dependency_1: roleicon.assetbundle
-        Dependency_2: fonts.assetbundle
     Info_146:
       Name: guildmail.assetbundle
       Dependencies:
@@ -626,8 +591,7 @@ AssetBundleManifest:
     Info_148:
       Name: pvpmall.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_149:
       Name: pvpheroselect.assetbundle
       Dependencies:
@@ -638,8 +602,7 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: bg.assetbundle
         Dependency_1: roleicon.assetbundle
-        Dependency_2: fonts.assetbundle
-        Dependency_3: pagetext.assetbundle
+        Dependency_2: pagetext.assetbundle
     Info_151:
       Name: rolepainting-10000201.assetbundle
       Dependencies: {}
@@ -655,7 +618,6 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: bg.assetbundle
         Dependency_1: matchsystem.assetbundle
-        Dependency_2: fonts.assetbundle
     Info_155:
       Name: bountymatchreward.assetbundle
       Dependencies:
@@ -665,16 +627,14 @@ AssetBundleManifest:
         Dependency_3: pagetext.assetbundle
     Info_156:
       Name: chatinbattle.assetbundle
-      Dependencies:
-        Dependency_0: fonts.assetbundle
+      Dependencies: {}
     Info_157:
       Name: rolepainting-10000001.assetbundle
       Dependencies: {}
     Info_158:
       Name: gridhistory.assetbundle
       Dependencies:
-        Dependency_0: fonts.assetbundle
-        Dependency_1: pagetext.assetbundle
+        Dependency_0: pagetext.assetbundle
     Info_159:
       Name: skinr50000130.assetbundle
       Dependencies: {}
@@ -728,14 +688,12 @@ AssetBundleManifest:
         Dependency_0: guildsprite.assetbundle
         Dependency_1: bg.assetbundle
         Dependency_2: roleicon.assetbundle
-        Dependency_3: fonts.assetbundle
-        Dependency_4: guildlevelicon.assetbundle
-        Dependency_5: frameicon.assetbundle
+        Dependency_3: guildlevelicon.assetbundle
+        Dependency_4: frameicon.assetbundle
     Info_171:
       Name: storerecommend.assetbundle
       Dependencies:
         Dependency_0: resourceicon.assetbundle
-        Dependency_1: fonts.assetbundle
     Info_172:
       Name: propdetails.assetbundle
       Dependencies:

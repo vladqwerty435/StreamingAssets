@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 384320778
+CRC: 434956317
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 67ff17a31d443b5408726ed73f367dc9
+    Hash: caa22fc62998a711cf69e6830bfe2ac6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9aae047ee181ac13cfff5c953f5772c9
+    Hash: 4aaee3be46a18b46d5830801d594f35d
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -77,5 +81,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M047/StoreHeroPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/resourceicon.assetbundle

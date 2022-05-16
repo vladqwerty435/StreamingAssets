@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2068195800
+CRC: 1820198860
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b761cf27de77f54beb84a053a89bdd2c
+    Hash: 80bc9fed63e7625aad8402dd7229e0b0
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8fdcb95d5107cf6f3a3406e7e59245a9
@@ -57,7 +57,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
 Assets:
-- Assets/Logic/M032/ChartOnMain/ChartOnMainPanel.prefab
+- Assets/Logic/ChartOnMain/ChartOnMainPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/frameicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/ranknum.assetbundle

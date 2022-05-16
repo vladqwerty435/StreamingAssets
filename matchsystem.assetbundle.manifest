@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 3307714238
+CRC: 2666611229
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: acbc7b888b2954043e80d484d74439c8
+    Hash: 2e3e35cbf2c39f2fc9fb9876feeb4603
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2d43fbd6f01d544a805211201163b9cf
+    Hash: 9750801435d4c011a265bbdbef6cc998
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -60,4 +64,3 @@ Assets:
 - Assets/Logic/M103/MatchSystem/Texture/M103-Bottom-4.png
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle

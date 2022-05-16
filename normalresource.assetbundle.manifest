@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 890258540
+CRC: 2439095246
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5781e37404e30d068e3c17d5e6621193
+    Hash: 0258a707be1704f05cc8d7a326668c8c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: afa1c427e65f9cceced692d9ec686f15
+    Hash: ad4d1da7c897b7cccb84d60c7aa2228d
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -74,5 +78,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/Common/ResourceBar/NormalResourcePanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []

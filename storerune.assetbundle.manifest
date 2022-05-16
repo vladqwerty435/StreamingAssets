@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4031435840
+CRC: 3092675051
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5ff3a48280fba5d7376a1fe1d274a9e6
+    Hash: baf3c20710a52b4ebe8ee13e4071fcba
   TypeTreeHash:
     serializedVersion: 2
     Hash: aa5cc87e8d9fa947346b1a4f9a0f638f
@@ -94,5 +94,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/M047/StoreRunePanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []

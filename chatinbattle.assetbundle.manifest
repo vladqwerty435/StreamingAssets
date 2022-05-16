@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2056641959
+CRC: 2625455353
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e86252dc306e9941a9920d701ee1c59a
+    Hash: d2fccf80cc4627e6e1f99f841902f0cb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2c07f4e79eb632b4500468b065f29e72
@@ -74,5 +74,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/M037/ChatInBattle/ChatInBattlePanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []

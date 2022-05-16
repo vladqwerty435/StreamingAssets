@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 84799278
+CRC: 2148198146
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0306068d906abd2dc329299f7cf76914
+    Hash: 16ccfa4856bbc158c67d4d452d172ab4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 81435eebced7c8ca102ba418943f95e9
+    Hash: 60281da57b0aa6b328e54e6a9d02077f
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -116,6 +120,5 @@ Assets:
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/battleresult28.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/equipicon.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle

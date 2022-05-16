@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 578582815
+CRC: 398827557
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 65a8a02aa944c53be21bd1a9dbb66ed5
+    Hash: ae9c6dd720266c0137339806a4373a78
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f269378815efa6af65767e4d12bea9c4
+    Hash: ab509082b463182276639aa3031be7e2
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -59,5 +63,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M135/DraftRule/DraftRulePanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

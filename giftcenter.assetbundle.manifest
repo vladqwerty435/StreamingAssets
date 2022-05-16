@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 31654414
+CRC: 3625604439
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f24a316f5249e7f2befd1815ec114360
+    Hash: 2899c72d7267760805e941ef1bbf0d6b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1904aab9fcd80baf30bdd6692e6335fb
+    Hash: 44bac17a45363173d56c20e57b9ab7dc
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -76,5 +80,4 @@ Assets:
 - Assets/Logic/M047/GiftCenterPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/resourceicon.assetbundle

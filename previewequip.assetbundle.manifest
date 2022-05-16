@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2126766529
+CRC: 3446152819
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0d5cabf0d87bc8f0c59ff88de65028c9
+    Hash: 8ea52a5e6c01782cc219a8b7889ef2c0
   TypeTreeHash:
     serializedVersion: 2
     Hash: d0b7ee4baf6ce4f0d633d36efb4c348f
@@ -105,4 +105,3 @@ Assets:
 - Assets/Logic/M026/PVPMall/abc.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle

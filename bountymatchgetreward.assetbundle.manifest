@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 185097712
+CRC: 3008852798
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 60b0dafc0d897046f2e8ef6d0ac10d93
+    Hash: c97c69ca2998d6dc6cd541d2e499fc3e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 316f21b534d1cfdb90aa8c09694d1e7b
@@ -65,7 +65,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M103/BountyMatchGetReward/BountyMatchGetRewardPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/icon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/itemicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

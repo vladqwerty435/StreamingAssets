@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 553948437
+CRC: 2183609512
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1c8dfc6abf6c8e0678119e726bc3d587
+    Hash: eb13363bd9e75fbad90c7bd1cc67e63a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 680834133573245837b4bd37ce884f06
+    Hash: 076a2cf1f9de65c98fc3af40754bdf8d
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
@@ -56,6 +60,5 @@ Assets:
 - Assets/Logic/M103/BountyMatchChart/BountyMatchChartPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/ranknum.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/vipicon.assetbundle

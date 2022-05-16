@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 2008764425
+CRC: 1529069154
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 33e63dc60ade970ecfff5a6ba5c757d3
+    Hash: 60d73e3062d1028abbd5acd92d3f92b4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f59655dfbbe0857753a2f78310ed4f3
+    Hash: b1f9d31e50b4532d56d08e2cd46e99d4
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
@@ -86,5 +90,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/NewBattle14/NewBattle14Panel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []

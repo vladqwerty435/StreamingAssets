@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 362330523
+CRC: 1797502349
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 37ec02407ddd1e4a8a9412b249d6dcbf
+    Hash: 26565c820ed43486f9aa01d93f9d4140
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1d04bbdc6471546aa06020e2d333021b
+    Hash: 5d5d452cfc96160c7ba06c680e10db7a
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
@@ -68,5 +72,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/M047/StorePreferentialPanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
+Dependencies: []

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1315971204
+CRC: 4120930703
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 53f4142e6dd83e63d9f0df23ecd4f692
+    Hash: 8cfa926645ab7d460063979b4f2c3eee
   TypeTreeHash:
     serializedVersion: 2
     Hash: 05044148cceca60acaaddf2899ec9df9
@@ -102,7 +102,6 @@ Assets:
 - Assets/Logic/M122/Guild/GuildListPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/frameicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/guildlevelicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/guildsprite.assetbundle

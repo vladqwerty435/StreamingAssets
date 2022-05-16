@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 867644265
+CRC: 1340647576
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 03eaf02295aa36cb54415d86ef4745e7
+    Hash: 856edc67d5657c53a86a5a901a8ae1c6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2ce43fbb0fb0ed33a3745d8593dcf13a
+    Hash: 343a91fb1d857f9ac920db587f85b474
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -69,7 +73,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M081/Rank/RankPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/rankicon-i18000006.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/ranknum.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle

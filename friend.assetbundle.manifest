@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2912526011
+CRC: 494402152
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f6045cb900c92b3ae5f320e31c47946e
+    Hash: dc9a11e518640a59b2fe6b13edd47438
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7afdcf8360c86b658af404c2fb207976
@@ -112,6 +112,5 @@ Assets:
 - Assets/Logic/Friend/FriendPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle

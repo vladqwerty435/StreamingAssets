@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 3033268737
+CRC: 3708210471
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6e080939e55f89e2f09256b4e18076b4
+    Hash: 1933946bd9e3ec3b8f19dc98d3984ff5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3321d0d26850f69562cc82462a9f6094
+    Hash: 9411389f9616bfbdbe30cccd98a30714
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -67,5 +71,4 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Logic/M074/BattleMallSelectHero/BattleMallSelectHeroPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle

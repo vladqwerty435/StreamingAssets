@@ -1,17 +1,21 @@
 ManifestFileVersion: 0
-CRC: 622379802
+CRC: 3456230124
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 71cde0c41070ad082319bfe207b5b9c6
+    Hash: 475776d7f20979e11a031e7116ee8f5f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 286440252b39316c0a85f75ea312a49f
+    Hash: 6b6c8023dbfe04abec641cf18860484f
 HashAppended: 0
 ClassTypes:
 - Class: 1
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
@@ -48,4 +52,3 @@ Assets:
 - Assets/Logic/M072/PlayerSkill/PlayerSkillPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/fonts.assetbundle
