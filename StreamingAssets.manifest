@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 5721720
+CRC: 139923051
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -177,7 +177,7 @@ AssetBundleManifest:
     Info_52:
       Name: recentgame.assetbundle
       Dependencies:
-        Dependency_0: pagetext.assetbundle
+        Dependency_0: roleicon.assetbundle
     Info_53:
       Name: rankstarchange.assetbundle
       Dependencies:
@@ -587,8 +587,7 @@ AssetBundleManifest:
         Dependency_0: shader.assetbundle
     Info_147:
       Name: pvpmall.assetbundle
-      Dependencies:
-        Dependency_0: pagetext.assetbundle
+      Dependencies: {}
     Info_148:
       Name: pvpheroselect.assetbundle
       Dependencies:

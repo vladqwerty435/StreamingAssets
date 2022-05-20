@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2711648754
+CRC: 1504892994
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0900ff34e173ad6b66138dd0b907e395
+    Hash: 9863631f844f4aaba8a03625122c4c62
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 790e45fe9c9f09a8718dad128c3566b5
+    Hash: 10c45f4b34e9bd8f8ae1a2c8e22835f0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -36,15 +36,25 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 5230f545fdafc4847ba7aa98ac22bf31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 139a89323ce879b4c996249b3c3854b2, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+  Script: {fileID: 11500000, guid: e950b208e6a89214bb62ce23663e6edf, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: e98662fc8c5a92a4198124cbd0ebb833, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7d1cead068e1e72478c93cc8a5b0ac3f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cdc10c9c4fe8314fb5528196ac9571f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -81,6 +91,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M026/PVPMall/PVPMallPanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+- Assets/Logic/PVPMall/PVPMallPanel.prefab
+Dependencies: []

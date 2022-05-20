@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1677826335
+CRC: 3589440301
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 42f5fbc58b6f57c5701e1db9c3b1dc3a
+    Hash: 4805b7d7e1369fd8456fd02d810197b4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 390988a0f859b908c158ba7b18dbaf80
+    Hash: a2a07383803863bb16b4729701150e3b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,19 +28,19 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+  Script: {fileID: 11500000, guid: 05e49e7be3bee5247b718f958d510cab, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: 06f341fa025fc5343b2e8160f40a143d, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -52,6 +52,8 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SimpleUIItems`1[RecentGameItem]
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.CoreModule
@@ -73,6 +75,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M083/RecentGamePanel.prefab
+- Assets/Logic/RecentGame/RecentGamePanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/roleicon.assetbundle
