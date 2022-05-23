@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2994901470
+CRC: 252826534
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e4ce160f5f1cc380d647817277a7b4a7
+    Hash: e2c364eaff6312262fc6887fb6123b30
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6d308500025e816b45e02b90a93acd97
+    Hash: 96bbdba540c64b77d1c002651782496d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,35 +26,25 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5230f545fdafc4847ba7aa98ac22bf31, type: 3}
+  Script: {fileID: 11500000, guid: edbc9e8c402f4d74a9af0a3c297261de, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 7d1cead068e1e72478c93cc8a5b0ac3f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 5bf6eb7d1f27dac4bb185175b6f0faf1, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: edbc9e8c402f4d74a9af0a3c297261de, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5bf6eb7d1f27dac4bb185175b6f0faf1, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -87,7 +77,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M047/GiftCenterPanel.prefab
+- Assets/Logic/M047/GiftCenter/GiftCenterPanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/resourceicon.assetbundle

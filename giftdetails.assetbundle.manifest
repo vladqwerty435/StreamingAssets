@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 56278406
+CRC: 1321679907
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2f4e3ae6b81bab74056ad219223ac3f9
+    Hash: e514657c7b17e6dc8ea39980fb05e164
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8ad7eab81e58218234c319ecf1e9684e
+    Hash: 9c9bd333f8477609d65c5b73a1011da9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -38,7 +38,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: 908a73f201a42804eb97ca919911fd06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e30ca3a31cd0c4144bdf0265038b164a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
@@ -71,5 +73,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M047/GiftDetailsPanel.prefab
+- Assets/Logic/M047/GiftDetails/GiftDetailsPanel.prefab
 Dependencies: []

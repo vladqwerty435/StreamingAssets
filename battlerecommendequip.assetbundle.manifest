@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 171964592
+CRC: 1120285004
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ffc75ca68a127fae84e3fd02db36332e
+    Hash: 2bc9077aeaae331594f6fdb53b7ffee4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 47aade173bd64aafbd1515a8d8144ef2
+    Hash: cae2b15359ca58cacf629d69c1e9fba7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,15 +28,21 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2bf17b7f84ce114d8d4aaca4c19ca72, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cafc2dbdf76ceb48a87d5f99623361a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24b8fdd80e6af8c4bbb231385dbb7c11, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -48,6 +54,8 @@ ClassTypes:
 - Class: 224
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SimpleUIItems`1[BattleRecommendEquipItem]
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.PersistentCallGroup
 - AssemblyName: UnityEngine.CoreModule
@@ -80,5 +88,4 @@ Assets:
 - Assets/Logic/M074/BattleRecommendEquip/Num/0.png
 - Assets/Logic/M074/BattleRecommendEquip/Num/7.png
 - Assets/Logic/M074/BattleRecommendEquip/Num/8.png
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+Dependencies: []

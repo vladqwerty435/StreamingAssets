@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1613899530
+CRC: 4262416848
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d9667aee8d1912e877a6da3b49384b15
+    Hash: d495f7a06e8f399762cbbd54ab1eacdb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5079ae853f4abc8be41f9b1f22ba5e89
+    Hash: a41d0c4465ce9edd2b84f25d22079fb2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,13 +30,15 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  Script: {fileID: 11500000, guid: 32214598e5285b14483bfc390688143d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db4140267e3a3594eb855052486e58f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4e0b247420cd324491c87d32020ea2c, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 115
@@ -71,6 +73,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M069/BreakRune/BreakRunePanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+- Assets/Logic/BreakRune/BreakRunePanel.prefab
+Dependencies: []

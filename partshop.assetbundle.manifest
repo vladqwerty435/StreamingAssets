@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1293387724
+CRC: 586424622
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f653881e55cde37fd4f7414353dd1c8b
+    Hash: 3670d076255681cb68972d9cd226a54d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: fc188ed772a4aab8bcfb58cf2f51746c
+    Hash: fb7cde4545e05f7f1d57bb75ee145610
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,15 +28,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: d9fcb7477fc18404ba8a1b5b2a0118fd, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5230f545fdafc4847ba7aa98ac22bf31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cbd457c5b110e04b8c927eecc4dbdd8, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+  Script: {fileID: 11500000, guid: 7d1cead068e1e72478c93cc8a5b0ac3f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 115
@@ -69,12 +71,9 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
 - AssemblyName: UnityEngine.UI
-  ClassName: UnityEngine.UI.Scrollbar/ScrollEvent
-- AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M049/PartShopPanel.prefab
+- Assets/Logic/PartShop/PartShopPanel.prefab
 Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/portrait.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/skintag.assetbundle

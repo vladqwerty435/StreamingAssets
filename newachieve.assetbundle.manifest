@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2052099702
+CRC: 1005498747
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 7d3c9029ed518ba0560b66d687bf622f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 851ec5564cf6dfc92279d752918a336d
+    Hash: bbd743d8aa0f5e8f72210c5fede433ed
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,17 +28,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 07ec34510b5681d4684734d48f1d6684, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e1bbe46e9dabbb45b40bbb0c588eab5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b0ab8134bb82c874caefb01a89ee3196, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 0e1bbe46e9dabbb45b40bbb0c588eab5, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 07ec34510b5681d4684734d48f1d6684, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -71,7 +71,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M146/NewAchieve/NewAchievePanel.prefab
+- Assets/Logic/NewAchieve/NewAchievePanel.prefab
 Dependencies:
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/achieveicon.assetbundle
 - D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/bg.assetbundle

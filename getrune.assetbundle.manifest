@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3860741048
+CRC: 1214480489
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 295c37da78a6e1c9e7e293c045ecae89
+    Hash: 0a822027bb0ef0e5979d760a55340bc7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ac2dc088e0b028c54cccd2c99e2933f7
+    Hash: 9263d999b7449aef89b8c44453e69a31
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,8 +26,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
@@ -36,13 +34,17 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 68603263cedf54148a1d6bac5fb2c584, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+  Script: {fileID: 11500000, guid: b683d3bfc5c42ff40ab32a408714a865, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -77,6 +79,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M050/GetRune/GetRunePanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+- Assets/Logic/GetRune/GetRunePanel.prefab
+Dependencies: []

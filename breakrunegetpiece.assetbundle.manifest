@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2182237088
+CRC: 3942295529
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 25c45e1b6423832bebfe568c6759b020
+    Hash: 789e65ca46cb36007adcecc1f24c9bde
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 83b56b1e09d0496e83e2803f4aa10f46
+    Hash: 366253acbc0e5ea7b1b3379763fc178c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,11 +26,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  Script: {fileID: 11500000, guid: 7a0d14956210d1b4fa06c31576c70406, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -63,6 +61,5 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.SpriteState
 Assets:
-- Assets/Logic/M069/BreakRuneGetPiece/BreakRuneGetPiecePanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+- Assets/Logic/BreakRuneGetPiece/BreakRuneGetPiecePanel.prefab
+Dependencies: []

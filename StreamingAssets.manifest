@@ -1,11 +1,10 @@
 ManifestFileVersion: 0
-CRC: 1855105096
+CRC: 3030081579
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: battlerecommendequip.assetbundle
-      Dependencies:
-        Dependency_0: pagetext.assetbundle
+      Dependencies: {}
     Info_1:
       Name: guildsprite.assetbundle
       Dependencies: {}
@@ -89,8 +88,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_26:
       Name: getrune.assetbundle
-      Dependencies:
-        Dependency_0: pagetext.assetbundle
+      Dependencies: {}
     Info_27:
       Name: rankicon-i18000007.assetbundle
       Dependencies: {}
@@ -162,8 +160,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_48:
       Name: equipinside.assetbundle
-      Dependencies:
-        Dependency_0: pagetext.assetbundle
+      Dependencies: {}
     Info_49:
       Name: skinr50001040.assetbundle
       Dependencies:
@@ -399,8 +396,7 @@ AssetBundleManifest:
         Dependency_0: shader.assetbundle
     Info_108:
       Name: battlemallselecthero.assetbundle
-      Dependencies:
-        Dependency_0: pagetext.assetbundle
+      Dependencies: {}
     Info_109:
       Name: battleachieve.assetbundle
       Dependencies:
@@ -478,8 +474,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_127:
       Name: breakrune.assetbundle
-      Dependencies:
-        Dependency_0: pagetext.assetbundle
+      Dependencies: {}
     Info_128:
       Name: playerdata.assetbundle
       Dependencies:
@@ -551,8 +546,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_139:
       Name: breakrunegetpiece.assetbundle
-      Dependencies:
-        Dependency_0: pagetext.assetbundle
+      Dependencies: {}
     Info_140:
       Name: frameicon.assetbundle
       Dependencies: {}
@@ -560,8 +554,7 @@ AssetBundleManifest:
       Name: partshop.assetbundle
       Dependencies:
         Dependency_0: portrait.assetbundle
-        Dependency_1: pagetext.assetbundle
-        Dependency_2: skintag.assetbundle
+        Dependency_1: skintag.assetbundle
     Info_142:
       Name: notice.assetbundle
       Dependencies:

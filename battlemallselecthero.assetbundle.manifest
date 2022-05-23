@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3708210471
+CRC: 2247558165
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1933946bd9e3ec3b8f19dc98d3984ff5
+    Hash: e11d259827e6e5488a61edc4abe7d256
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 47aade173bd64aafbd1515a8d8144ef2
+    Hash: 2ecbdb1d9355b905336c37172f106417
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -30,13 +30,19 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 724c758019e73aa43a772a2e12c0814c, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: dca05bcaefd7a314eb58d28daa5cb779, type: 3}
+  Script: {fileID: 11500000, guid: dc9b1673ee7604f4f9833110bd7a856b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 6b7278d8aaffafd4bab4151d24267f05, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc61a4d66e1c88e4ab5839e5ef2aa092, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06e89eecb1ed4b942acb977c1fe22d43, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -70,5 +76,4 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.SpriteState
 Assets:
 - Assets/Logic/M074/BattleMallSelectHero/BattleMallSelectHeroPanel.prefab
-Dependencies:
-- D:/Projects/Moba/UnityMobaClient/Assets/StreamingAssets/pagetext.assetbundle
+Dependencies: []
